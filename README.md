@@ -5,15 +5,13 @@ Thanks shecan.ir for providing this useful nameserver to bypass USA internet san
 
 # Installing
 
-`$ git clone https://github.com/aliglzr/shecan-cli.git`
-
-`$ cd shecan-cli`
-
-`$ mkdir /opt/shecan/`
-
-`$ cp shecan.sh /opt/shecan/shecan`
-
-`$ ln -s /opt/shecan/shecan /usr/bin/shecan`
+```
+$ git clone https://github.com/aliglzr/shecan-cli.git
+$ cd shecan-cli
+$ mkdir /opt/shecan/
+$ cp shecan.sh /opt/shecan/shecan
+$ ln -s /opt/shecan/shecan /usr/bin/shecan
+```
 
 # Usage
 If you want to enable shecan DNS :
